@@ -1,0 +1,94 @@
+{
+    "name": "WeoGeo Status",
+    "description": "Positioning-centric information is changing the way people, businesses and governments work throughout the world. By applying Trimble's advanced positioning solutions, productivity increases and safety improvements are being realized.    Though best kn...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/674-weogeo-status.jpg",
+    "tags": [
+        "agriculture",
+        "construction",
+        "data",
+        "gis",
+        "have api",
+        "locations",
+        "telecommunications",
+        "utilties"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/weogeo-status\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WeoGeo Status",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/674-weogeo-status.jpg",
+            "humanURL": "http:\/\/www.weogeo.com\/developer_doc\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/weogeo-status-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/weogeo-status-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.weogeo.com\/developer_doc\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/fusebill"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trimble"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/weogeo"
+        },
+        {
+            "type": "Email",
+            "url": "investor_relations@trimble.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@trimble.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@trimble.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@trimble.com"
+        },
+        {
+            "type": "Email",
+            "url": "jack_patton@trimble.com"
+        },
+        {
+            "type": "Email",
+            "url": "James_Todd@trimble.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/WeoGeo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/WeoGeoStatus"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TrimbleCorpNews"
+        }
+    ]
+}
